@@ -1,0 +1,4 @@
+uuid,id_by_user,name,type,size_x,size_y,size_z,remarks,first_upload,update,reference,rate,status
+513bb54e-a33d-4c4c-bbb1-70e565b4e051,1,ItemA,Type1,10.5,10,15,s1,2024-06-18T11:38:59.780710,2024-06-18T19:55:44.743563,,0.845361404,calculated
+513bb54e-a33d-4c4c-bbb1-70e565b4e052,2,ItemB,Type2,20,12,15.5,xxx,2024-06-18T11:38:59.780710,2024-06-18T19:55:44.743563,,0.3053472,calculated
+513bb54e-a33d-4c4c-bbb1-70e565b4e050,3,ItemC,Type1,15.3,14,16,yyy,2024-06-18T11:38:59.780710,2024-06-18T19:55:44.743563,,0.145453659,calculated
